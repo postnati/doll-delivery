@@ -13,7 +13,7 @@ Produces the shortest path with distance which:
  
 Include a set of executable high-level tests for your solution. The following is a set of inputs for which the correct result is known:
 
-![Neighborhood Map](doll-delivery/master/neighborhood-map.png)
+![Neighborhood Map](https://raw.github.com/postnati/doll-delivery/master/neighborhood-map.png)
 
 Input:
 
@@ -59,5 +59,5 @@ Result:
 
 Hints:
 
-* read this - http://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+* read about [Dijkstra's Algorithm](http://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 * find more interesting example data for test cases on the internet
