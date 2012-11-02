@@ -13,7 +13,7 @@ Produces the shortest path with distance which:
  
 Include a set of executable high-level tests for your solution. The following is a set of inputs for which the correct result is known:
 
-![Neighborhood Map](postnati.github.com/doll-delivery/neighborhood-map.png)
+![Neighborhood Map](raw.github.com/postnati/doll-delivery/master/neighborhood-map.png)
 
 Input:
 
