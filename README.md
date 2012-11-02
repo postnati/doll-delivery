@@ -17,15 +17,11 @@ Include a set of executable high-level tests for your solution. The following is
 
 Input:
 
-  startingLocation:
+    startingLocation: "Kruthika's abode"
 
-    "Kruthika's abode"
+    targetLocation: "Craig's haunt"
 
-  targetLocation:
-
-    "Craig's haunt"
-
-  paths: 
+    paths: 
 
     List(
       Map("startLocation" -> "Kruthika's abode", "endLocation" -> "Mark's crib", "distance" -> 9),
@@ -54,8 +50,6 @@ Input:
     )
 
 Result:
-  
-  returns:
   
     Map("distance" -> 31, "path" -> "Kruthika's abode => Brian's apartment => Wesley's condo => Bryce's den => Craig's haunt")
 
