@@ -55,7 +55,9 @@ Input:
 
 Result:
   
-  Map("distance" -> 31, "path" -> "Kruthika's abode => Brian's apartment => Wesley's condo => Bryce's den => Craig's haunt")
+  returns:
+  
+    Map("distance" -> 31, "path" -> "Kruthika's abode => Brian's apartment => Wesley's condo => Bryce's den => Craig's haunt")
 
 Hints:
 
