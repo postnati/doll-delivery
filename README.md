@@ -1,4 +1,4 @@
-You are nice old lady who delivers porcelain dolls on foot using your walker to residents in a neighborhood. Every day a nice young man fills your handbag with porcelain dolls. He gives you a map of the neighborhood and an address of the neighbor to deliver the handbag of dolls to. The handbag is extremely heavy and you have a bad hip so you always try to minimize the walking distance from your beginning position to your destination. Your job is to determine the shortest path to take to deliever your handbag of dolls.
+You are a nice old lady who delivers porcelain dolls on foot using your walker to residents in a neighborhood. Every day a nice young man fills your handbag with porcelain dolls. He gives you a map of the neighborhood and an address of the neighbor to deliver the handbag of dolls to. The handbag is extremely heavy and you have a bad hip so you always try to minimize the walking distance from your beginning position to your destination. Your job is to determine the shortest path to take to deliever your handbag of dolls.
 
 **Write a function in the [Scala](http://www.scala-lang.org/) programming language** when given:
 
