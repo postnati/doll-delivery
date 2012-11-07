@@ -4,7 +4,7 @@ You are a nice old lady who delivers porcelain dolls on foot using your walker t
 
 * a starting location
 * a target location
-* a list of paths where each path is represented as a map and connects two locations
+* a list of edges where each edge is represented as a map and connects two locations
   
 Produces the shortest path with distance which:
 
@@ -21,7 +21,7 @@ Input:
 
     targetLocation: "Craig's haunt"
 
-    paths: 
+    edges: 
 
     List(
       Map("startLocation" -> "Kruthika's abode", "endLocation" -> "Mark's crib", "distance" -> 9),
