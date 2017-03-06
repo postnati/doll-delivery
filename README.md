@@ -63,3 +63,5 @@ Hints:
 
 * read about [Dijkstra's Algorithm](http://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 * find more interesting example data for test cases on the internet
+
+We strongly recommend using IntelliJ to work with Kotlin. You can find details about [setting up IntelliJ here](https://kotlinlang.org/docs/tutorials/getting-started.html).
