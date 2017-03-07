@@ -13,7 +13,7 @@ Produces the shortest path with distance which:
  
 The function should have a signature like this:
 
-    fun dijkstra(startLocation : String, endLocation : String, edges : List<Map<String, String>>) : Map<String, String>
+    fun dijkstra(startLocation: String, endLocation: String, edges: List<Map<String, String>>): Map<String, String>
 
 where an `edge` is a `Map` with keys for `startLocation`, `endLocation`, and `distance`. The return value should be a `Map` with keys for `distance` and `path`.
 
